@@ -1,4 +1,5 @@
 google-generativeai
+IPython
 langchain
 torch
 transformers
