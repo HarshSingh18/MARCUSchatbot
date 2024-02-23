@@ -11,7 +11,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 #from api import API_KEY
 
-genai.configure(api_key=api_key='AIzaSyClTOyWii44VqJAzliYWqyqHZ6sh7-oRdw')
+genai.configure(api_key='AIzaSyClTOyWii44VqJAzliYWqyqHZ6sh7-oRdw')
 
  # Define the path to the pre-trained model you want to use
 modelPath = "sentence-transformers/all-MiniLM-l6-v2"
