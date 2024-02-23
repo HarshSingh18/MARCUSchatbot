@@ -5,7 +5,7 @@ import base64
 
 # Streamlit setup
 user = 'user.png'
-bot = 'marcusImg.jpg'
+bot = 'MarcusImg.jpg'
 st.set_page_config(page_title = 'M.A.R.C.U.S.', layout = 'centered', initial_sidebar_state = 'auto')
 
 def add_bg_from_local(image_file):
