@@ -1,7 +1,7 @@
 # MARCUS bot
 A RAG-based question-answering bot trained on self-help books and youtube podcasts to answer all your questions about productivity and self-help.
 It is powered  by Gemini pro as the LLM behind it's working.
-You can use it without running code and installing dependencies [here](https://marcusbot.streamlit.app/) as it is hosted on streamlit commmunity cloud.
+You can use it without running code and installing dependencies [here](https://marcusbot.streamlit.app/) as it is hosted on streamlit community cloud.
 
 ## demo examples 
 
